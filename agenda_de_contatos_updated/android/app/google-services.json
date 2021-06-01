@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "229672269179",
+    "firebase_url": "https://agenda-de-contatos-f8063-default-rtdb.firebaseio.com",
+    "project_id": "agenda-de-contatos-f8063",
+    "storage_bucket": "agenda-de-contatos-f8063.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229672269179:android:7c748f381ab28f7825b9de",
+        "android_client_info": {
+          "package_name": "com.example.agenda_de_contatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229672269179-vrb4c4v01l9rp7qd7bbfkduurn7h5ibo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMiTXNsIL9PeLXPSwYuyQXbCCav2jqXEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229672269179-vrb4c4v01l9rp7qd7bbfkduurn7h5ibo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229672269179:android:0dc796fa7516d3ee25b9de",
+        "android_client_info": {
+          "package_name": "com.example.agenda_de_contatos_updated"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229672269179-vrb4c4v01l9rp7qd7bbfkduurn7h5ibo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMiTXNsIL9PeLXPSwYuyQXbCCav2jqXEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229672269179-vrb4c4v01l9rp7qd7bbfkduurn7h5ibo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
